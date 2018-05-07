@@ -1,6 +1,6 @@
 # Compeption
 # 赛题目的
- 根据测试集给出的用户 user_id、mall_id、longitude、latitude、wifi_infos，预测数用于会出现在哪个shop_id中。
+ 根据测试集给出的用户 user_id、mall_id、longitude、latitude、wifi_infos，预测用户会出现在哪个店铺（shop_id）中。
  
  训练集first_round_user_shop_behavior.csv有用户的user_id、shop_id、longitude、latitude、wifi_infos等信息。
  训练集first_round_shop_info.csv有店铺的shop_id、category_id、longitude、latitude、mall_id等信息。
