@@ -1,4 +1,4 @@
-# Compeption
+# Competition
 # 赛题目的
  根据测试集给出的用户 user_id、mall_id、longitude、latitude、wifi_infos，预测用户会出现在哪个店铺（shop_id）中。
  
